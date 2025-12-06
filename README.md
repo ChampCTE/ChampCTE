@@ -30,6 +30,6 @@ Optimizado para automatizar tareas de red.
 
 ---
 
-📧 **[celiatrullaa@gmail.com](mailto:celiatrullaa@gmail.com)**
+📧 **[celiatrulla@gmail.com](mailto:celiatrulla@gmail.com)**
 💼 **[LinkedIN](https://www.linkedin.com/in/cèlia-trullà-estruch/)**
 
