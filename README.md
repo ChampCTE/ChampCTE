@@ -1,32 +1,35 @@
-#### 👋 ¡Hola! Soy Cèlia
+#### 👋 Hi! I'm Cèlia
 
-Técnica IT & Desarrolladora en formación. Actualmente desarrollo aplicaciones en **Java y C**, gestiono redes, sistemas y dispositivos corporativos, y sigo ampliando mis conocimientos en **arquitectura de software, bases de datos y seguridad informática**.
+IT Technician & Software Developer in training. I currently work with Java and C, manage networks, systems, and corporate devices, and continue expanding my knowledge in software architecture, databases, and cybersecurity.
+
+I enjoy building structured, well-organized projects with a focus on clean logic, usability, and continuous learning.
+---
+
+####  Featured Repositories & Projects
+
+🔹 **Pomodoro Focus App (JavaScript, HTML, CSS)**
+A productivity-focused Pomodoro timer with a clean UI and sound feedback.Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.
+Designed with modular JavaScript architecture and enhanced using Bootstrap.
+
+🔹 **Invoice Management System (Java)**
+A modular application to manage invoices, products, stores, and customers. Includes data modeling, filtering by dates, collections, and object-oriented design principles..
+
+🔹 **Vehicle Rental System (Java)**
+Fleet management system using advanced OOP concepts. Handles vehicles, customers, contracts, dates, and contract-based vehicle lis
+
+🔹 **Fast DNS Configurator (C)**
+A lightweight tool that updates network adapter DNS settings by reading values from a text file. Designed to automate network configuration tasks efficiently
 
 ---
 
-####  Repositorios y Proyectos Destacados
-
-🔹 **Gestión de Facturas (Java)**
-Aplicación modular para gestionar facturas, productos, tiendas y clientes. Incluye filtrado, modelado de datos y uso de colecciones.
-
-🔹 **Alquiler de Vehículos (Java)**
-Sistema de gestión de flotas con POO avanzada, fechas, contratos, clientes y listas de vehículos.
-Incluye ampliación del modelo con listas de vehículos por contrato.
-
-🔹 **Configurador DNS Rápido (C)**
-Programa que modifica el DNS de un adaptador leyendo valores desde un archivo de texto.
-Optimizado para automatizar tareas de red.
-
----
-
-####  Tecnologías y Herramientas
+####  Technologies & Tools
 
 🔹**Java – C – C++ – PHP – JavaScript – Visual Basic (macros)**
-🔹**HTML5 – CSS – JavaScript – WordPress (edición de temas)**
+🔹**HTML5 – CSS – JavaScript – WordPress (theme editing)**
 🔹**SQL (MySQL, MariaDB)**
 🔹**NoSQL (MongoDB)**
 🔹**Visual Studio Code – IntelliJ – Postman – Docker – FileZilla**
-🔹Virtualización con **VirtualBox** y **VMware**
+🔹Virtualization with **VirtualBox** and **VMware**
 
 ---
 
