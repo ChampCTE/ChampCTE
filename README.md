@@ -1,8 +1,8 @@
 #### 👋 Hi! I'm Cèlia
 
 IT Technician & Software Developer in training. I currently work with Java and C, manage networks, systems, and corporate devices, and continue expanding my knowledge in software architecture, databases, and cybersecurity.
-
 I enjoy building structured, well-organized projects with a focus on clean logic, usability, and continuous learning.
+
 ---
 
 ####  Featured Repositories & Projects
