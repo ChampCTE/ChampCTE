@@ -7,15 +7,15 @@ I enjoy building structured, well-organized projects with a focus on clean logic
 
 ####  Featured Repositories & Projects
 
+🔹 **Valentine’s Candies — Interactive Web Mini App (JavaScript, HTML, CSS)**
+A playful and interactive Valentine-themed web experience inspired by a candy vending machine. Users pull a lever to receive animated falling candy hearts with sweet messages. Features custom illustrations, responsive design, CSS animations, canvas-based animated background, and sound effects.
+
 🔹 **Pomodoro Focus App (JavaScript, HTML, CSS)**
 A productivity-focused Pomodoro timer with a clean UI and sound feedback.Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.
 Designed with modular JavaScript architecture and enhanced using Bootstrap.
 
 🔹 **Invoice Management System (Java)**
 A modular application to manage invoices, products, stores, and customers. Includes data modeling, filtering by dates, collections, and object-oriented design principles..
-
-🔹 **Vehicle Rental System (Java)**
-Fleet management system using advanced OOP concepts. Handles vehicles, customers, contracts, dates, and contract-based vehicle lis
 
 🔹 **Fast DNS Configurator (C)**
 A lightweight tool that updates network adapter DNS settings by reading values from a text file. Designed to automate network configuration tasks efficiently
