@@ -1,38 +1,73 @@
-#### 👋 Hi! I'm Cèlia
+<div align="center">
 
-IT Technician & Software Developer in training. I currently work with Java and C, manage networks, systems, and corporate devices, and continue expanding my knowledge in software architecture, databases, and cybersecurity.
-I enjoy building structured, well-organized projects with a focus on clean logic, usability, and continuous learning.
+  <h1>Hi 👋 I'm Cèlia</h1>
+  <p><strong>💻 IT Technician & Software Developer in training | Frontend & Systems </strong></p>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampCTE&layout=compact&theme=default&border_radius=10" alt="Top Languages" />
+  <br />
 
----
+</div>
 
-####  Featured Repositories & Projects
+## About Me
 
-🔹 **Valentine’s Candies — Interactive Web Mini App (JavaScript, HTML, CSS)**
-A playful and interactive Valentine-themed web experience inspired by a candy vending machine. Users pull a lever to receive animated falling candy hearts with sweet messages. Features custom illustrations, responsive design, CSS animations, canvas-based animated background, and sound effects.
+I’m an **IT Technician and Software Developer**
 
-🔹 **Pomodoro Focus App (JavaScript, HTML, CSS)**
-A productivity-focused Pomodoro timer with a clean UI and sound feedback.Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.
-Designed with modular JavaScript architecture and enhanced using Bootstrap.
-
-🔹 **Invoice Management System (Java)**
-A modular application to manage invoices, products, stores, and customers. Includes data modeling, filtering by dates, collections, and object-oriented design principles..
-
-🔹 **Fast DNS Configurator (C)**
-A lightweight tool that updates network adapter DNS settings by reading values from a text file. Designed to automate network configuration tasks efficiently
+I enjoy building **structured, well-organized projects**, with a strong focus on **clean logic, usability, and continuous learning**.  
+I’m especially interested in **software architecture, databases, frontend development, and cybersecurity fundamentals**.
 
 ---
 
-####  Technologies & Tools
+## Featured Projects
 
-🔹**Java – C – C++ – PHP – JavaScript – Visual Basic (macros)**
-🔹**HTML5 – CSS – JavaScript – WordPress (theme editing)**
-🔹**SQL (MySQL, MariaDB)**
-🔹**NoSQL (MongoDB)**
-🔹**Visual Studio Code – IntelliJ – Postman – Docker – FileZilla**
-🔹Virtualization with **VirtualBox** and **VMware**
+- 🍬 **[Valentine’s Candies](https://github.com/ChampCTE/valentine-candies)**  
+  Interactive Valentine-themed web mini app inspired by a candy vending machine.  
+  Users pull a lever to receive animated falling candy hearts with sweet messages.  
+  Features custom illustrations, responsive design, CSS animations, canvas-based animated background, and sound effects.
+  
+  **Tech:** JavaScript · HTML · CSS · Canvas API · GitHub Pages
+
+- ⏱️ **[Pomodoro Focus App](https://champcte.github.io/pomodoro-app/)**  
+  Productivity-focused Pomodoro timer with clean UI and sound feedback.  
+  Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.  
+  Built with modular JavaScript architecture and enhanced using Bootstrap.
+  
+  **Tech:** JavaScript · HTML · CSS · GitHub Pages
+
+- 🧾 **Invoice Management System**  
+  Modular application to manage invoices, products, stores, and customers.  
+  Includes data modeling, date-based filtering, collections, and object-oriented design principles.
+  
+  **Tech:** Java
+
+- 🌐 **Fast DNS Configurator**  
+  Lightweight tool that updates network adapter DNS settings by reading values from a text file.  
+  Designed to automate and speed up network configuration tasks.
+  
+  **Tech:** C
 
 ---
 
-📧 **[celiatrulla@gmail.com](mailto:celiatrulla@gmail.com)**
-💼 **[LinkedIN](https://www.linkedin.com/in/cèlia-trullà-estruch/)**
+#### Technologies & Tools
 
+🔹 **Programming Languages**  
+Java – C – C++ – PHP – JavaScript – Visual Basic (macros)
+
+🔹 **Web & Frontend**  
+HTML5 – CSS3 – JavaScript – WordPress (theme editing)
+
+🔹 **Databases**  
+SQL (MySQL, MariaDB)
+NoSQL (MongoDB)
+
+🔹 **Development & DevOps Tools**  
+Visual Studio Code – IntelliJ IDEA – Postman – Docker – FileZilla
+
+🔹 **Virtualization**  
+VirtualBox – VMware
+
+
+---
+## Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Celia_Trulla-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/celia-trulla-estruch/)
+[![Gmail Badge](https://img.shields.io/badge/-celiatrulla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:celiatrulla@gmail.com)
