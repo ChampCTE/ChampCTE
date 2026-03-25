@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋 I'm Cèlia</h1>
-  <p><strong>💻 IT Technician & Software Developer in training | Frontend & Systems </strong></p>
+  <p><strong>💻 Fullstack Developer (Backend-focused) | Data & APIs </strong></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampCTE&layout=compact&theme=default&border_radius=10" alt="Top Languages" />
   <br />
@@ -10,23 +10,47 @@
 
 ## About Me
 
-I’m an **IT Technician and Software Developer**
+I’m an **Fullstack Developer** with a growing focus on **data engineering and backend systems**.
 
-I enjoy building **structured, well-organized projects**, with a strong focus on **clean logic, usability, and continuous learning**.  
-I’m especially interested in **software architecture, databases, frontend development, and cybersecurity fundamentals**.
+I enjoy building **structured, well-organized projects**, with a strong emphasis on:
+- clean logic
+- modular architecture
+- real-world problem solving
+
+Currently, I’m expanding my skills in:
+- **ETL pipelines**
+- **API integrations**
+- **Database design (PostgreSQL)**
+- **Containerization (Docker)**
 
 ---
 
 ## Featured Projects
 
-- 🍬 **[Valentine’s Candies](https://github.com/ChampCTE/valentine-candies)**  
+- ⚙️ **Zammad API ETL (In Progress)**  
+  End-to-end ETL pipeline that extracts data from a ticketing system API, transforms it into structured datasets, and loads it into a relational database.  
+  Designed with modular architecture and prepared for containerized deployment and scheduled execution.
+
+  **Key Features:**
+  - API data extraction with pagination
+  - Data transformation and normalization
+  - Relational database schema design
+  - Incremental upserts and aggregation
+  - Environment-based configuration (.env)
+  - Docker-ready setup for production environments
+
+  **Tech:** Python · Pandas · Requests · PostgreSQL · Docker
+
+---
+
+- 🍬 [**Valentine’s Candies**  ](https://champcte.github.io/valentine-candies/)
   Interactive Valentine-themed web mini app inspired by a candy vending machine.  
   Users pull a lever to receive animated falling candy hearts with sweet messages.  
   Features custom illustrations, responsive design, CSS animations, canvas-based animated background, and sound effects.
   
   **Tech:** JavaScript · HTML · CSS · Canvas API · GitHub Pages
 
-- ⏱️ **[Pomodoro Focus App](https://champcte.github.io/pomodoro-app/)**  
+- ⏱️[ **Pomodoro Focus App**  ](https://champcte.github.io/pomodoro-app/)
   Productivity-focused Pomodoro timer with clean UI and sound feedback.  
   Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.  
   Built with modular JavaScript architecture and enhanced using Bootstrap.
@@ -47,26 +71,38 @@ I’m especially interested in **software architecture, databases, frontend deve
 
 ---
 
-#### Technologies & Tools
+## Technologies & Tools
 
 🔹 **Programming Languages**  
-Java – C – C++ – PHP – JavaScript – Visual Basic (macros)
+Java – C – C++ – Python – PHP – JavaScript – Visual Basic (macros)
+
+🔹 **Data & Backend**  
+Pandas – REST APIs – ETL pipelines – PostgreSQL (in progress)
 
 🔹 **Web & Frontend**  
 HTML5 – CSS3 – JavaScript – WordPress (theme editing)
 
 🔹 **Databases**  
-SQL (MySQL, MariaDB)
+SQL (MySQL, MariaDB, PostgreSQL)  
 NoSQL (MongoDB)
 
 🔹 **Development & DevOps Tools**  
-Visual Studio Code – IntelliJ IDEA – Postman – Docker – FileZilla
+Visual Studio Code – IntelliJ IDEA – Postman – Docker (learning) – Git
 
 🔹 **Virtualization**  
 VirtualBox – VMware
 
+---
+
+## Currently Learning
+
+- ETL architecture and data pipelines  
+- PostgreSQL integration and optimization  
+- Docker and containerized deployments  
+- Workflow automation and scheduling  
 
 ---
+
 ## Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Celia_Trulla-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/celia-trulla-estruch/)
