@@ -1,23 +1,25 @@
 <div align="center">
 
   <h1>Hi 👋 I'm Cèlia</h1>
-  <p><strong>💻 Fullstack Developer (Backend-focused) | Data & APIs </strong></p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampCTE&layout=compact&theme=default&border_radius=10" alt="Top Languages" />
-  <br />
+  <p><strong>💻 Fullstack Developer (Backend-focused) | Data & APIs</strong></p>
 
+  ![Top Languages](https://ghstats.dev/api/langs?username=ChampCTE&theme=light&hide_border=true&max_langs=6)
+  <br />
 </div>
+
+---
 
 ## About Me
 
-I’m an **Fullstack Developer** with a growing focus on **data engineering and backend systems**.
+I’m a **Fullstack Developer** with a growing focus on **backend systems and data engineering**.
 
-I enjoy building **structured, well-organized projects**, with a strong emphasis on:
-- clean logic
-- modular architecture
+I enjoy building **structured, scalable projects**, with a strong emphasis on:
+- clean logic  
+- modular architecture  
 - real-world problem solving
 
-Currently, I’m expanding my skills in:
+Currently, I’m deepening my expertise in:
+- **Fullstack development**
 - **ETL pipelines**
 - **API integrations**
 - **Database design (PostgreSQL)**
@@ -27,79 +29,85 @@ Currently, I’m expanding my skills in:
 
 ## Featured Projects
 
-- ⚙️ **Zammad API ETL (In Progress)**  
-  End-to-end ETL pipeline that extracts data from a ticketing system API, transforms it into structured datasets, and loads it into a relational database.  
-  Designed with modular architecture and prepared for containerized deployment and scheduled execution.
+### 🚀 Fullstack Shortcut (In Progress)  
+Internal productivity tool designed for companies to centralize and organize shortcuts to internal tools within their own network/proxy.
 
-  **Key Features:**
-  - API data extraction with pagination
-  - Data transformation and normalization
-  - Relational database schema design
-  - Incremental upserts and aggregation
-  - Environment-based configuration (.env)
-  - Docker-ready setup for production environments
+The application provides a **role-based system with three levels**:
 
-  **Tech:** Python · Pandas · Requests · PostgreSQL · Docker
+- **Admin**: Create global shortcuts (visible to all users) and manage agent and user shortcuts  
+
+- **Agent**: Create personal shortcuts , shortcuts for users and organize shortcuts into categories  
+
+- **User**: Read-only access to shortcuts  
+
+**Core Features:**
+- Drag & drop interface for organizing shortcuts  
+- Role-based access control  
+- Category management  
+- Currently using local storage (planned migration to database backend)  
+
+**Tech:** JavaScript · HTML · CSS · (Backend & DB planned)
 
 ---
 
-- 🍬 [**Valentine’s Candies**  ](https://champcte.github.io/valentine-candies/)
-  Interactive Valentine-themed web mini app inspired by a candy vending machine.  
-  Users pull a lever to receive animated falling candy hearts with sweet messages.  
-  Features custom illustrations, responsive design, CSS animations, canvas-based animated background, and sound effects.
-  
-  **Tech:** JavaScript · HTML · CSS · Canvas API · GitHub Pages
+### ⚙️[ Zammad API ETL  ](https://github.com/ChampCTE/ETL-Zammad-API)
+End-to-end ETL pipeline that extracts data from a ticketing system API, transforms it, and loads it into PostgreSQL for analytics and BI.  
+Designed with a modular architecture and deployed using Docker with scheduled execution.
 
-- ⏱️[ **Pomodoro Focus App**  ](https://champcte.github.io/pomodoro-app/)
-  Productivity-focused Pomodoro timer with clean UI and sound feedback.  
-  Includes cycle selection, pause/resume logic, phase-based UI changes, ambient background music, and educational content during breaks.  
-  Built with modular JavaScript architecture and enhanced using Bootstrap.
-  
-  **Tech:** JavaScript · HTML · CSS · GitHub Pages
+**Tech:** Python · Pandas · Requests · PostgreSQL · Docker  
 
-- 🧾 **Invoice Management System**  
-  Modular application to manage invoices, products, stores, and customers.  
-  Includes data modeling, date-based filtering, collections, and object-oriented design principles.
-  
-  **Tech:** Java
+---
 
-- 🌐 **Fast DNS Configurator**  
-  Lightweight tool that updates network adapter DNS settings by reading values from a text file.  
-  Designed to automate and speed up network configuration tasks.
-  
-  **Tech:** C
+### 🍬 [Valentine’s Candies](https://champcte.github.io/valentine-candies/)  
+Interactive Valentine-themed mini web app inspired by a candy vending machine.  
+Users pull a lever to receive animated candy hearts with messages.
+
+**Tech:** JavaScript · HTML · CSS · Canvas API · GitHub Pages  
+
+---
+
+### ⏱️ [Pomodoro Focus App](https://champcte.github.io/pomodoro-app/)  
+Productivity-focused Pomodoro timer with sound feedback and dynamic UI.
+
+**Tech:** JavaScript · HTML · CSS · GitHub Pages  
+
+---
+
+### 🧾 Invoice Management System  
+Modular application to manage invoices, products, stores, and customers.
+
+**Tech:** Java  
 
 ---
 
 ## Technologies & Tools
 
-🔹 **Programming Languages**  
-Java – C – C++ – Python – PHP – JavaScript – Visual Basic (macros)
+🔹 **Languages**  
+Java · C · C++ · Python · PHP · JavaScript · Visual Basic  
 
 🔹 **Data & Backend**  
-Pandas – REST APIs – ETL pipelines – PostgreSQL (in progress)
+Pandas · REST APIs · ETL pipelines · PostgreSQL  
 
-🔹 **Web & Frontend**  
-HTML5 – CSS3 – JavaScript – WordPress (theme editing)
+🔹 **Frontend**  
+HTML5 · CSS3 · JavaScript · WordPress  
 
 🔹 **Databases**  
-SQL (MySQL, MariaDB, PostgreSQL)  
-NoSQL (MongoDB)
+MySQL · MariaDB · PostgreSQL · MongoDB  
 
-🔹 **Development & DevOps Tools**  
-Visual Studio Code – IntelliJ IDEA – Postman – Docker (learning) – Git
+🔹 **Tools & DevOps**  
+VS Code · IntelliJ · Postman · Docker · Git  
 
 🔹 **Virtualization**  
-VirtualBox – VMware
+VirtualBox · VMware  
 
 ---
 
 ## Currently Learning
 
-- ETL architecture and data pipelines  
-- PostgreSQL integration and optimization  
-- Docker and containerized deployments  
-- Workflow automation and scheduling  
+- Advanced ETL architecture  
+- PostgreSQL optimization  
+- Docker-based deployments  
+- Workflow automation & scheduling  
 
 ---
 
