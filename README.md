@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi 👋 I'm Cèlia</h1>
-  <p><strong>💻 Fullstack Developer (Backend-focused) | Data, APIs & Automation</strong></p>
+  <p><strong>💻 Fullstack Developer | Data, APIs & Automation</strong></p>
 
-  ![Top Languages](https://ghstats.dev/api/langs?username=ChampCTE&theme=light&hide_border=true&max_langs=6)
+  ![Top Languages](https://ghstats.dev/api/langs?username=ChampCTE&theme=light&hide_border=true&hide_title=true&max_langs=12)
   <br />
 </div>
 
