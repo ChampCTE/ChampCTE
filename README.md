@@ -4,10 +4,7 @@
 ### Fullstack Developer • Backend • APIs • Modern Web Applications
  
 Building scalable web applications with a focus on clean architecture, security, automation, and intuitive user experiences.
- 
-<br>
-![Top Languages](https://ghstats.dev/api/langs?username=ChampCTE&hide_title=true)
- 
+
 </div>
 ---
  
